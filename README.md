@@ -20,4 +20,8 @@ The aim of this work is to implement a recommendation system given a dataset whi
 * `Commandline.sh`: the executable script file for the question 4
 * `commandline.png`: the screen of the results of the question 4
 
-**NOTE**: if you've got any problem with reviewing the notebook, you can visualize it correctly by opening [this]() link.
+## Group components
+* Antonella Mei (Antomei23 on github)
+* Gabriele Parisini (GabPar5 on github)
+* Riccardo Violano (RiccardoViolano on github)
+* Matteo Grimaldi (matteogrimaldiuni on github)
