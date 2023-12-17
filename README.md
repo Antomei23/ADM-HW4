@@ -11,9 +11,13 @@ The aim of this work is to implement a recommendation system given a dataset whi
     * 2.1 This section includes the preprocessing of the dataset and the creation of a new dataset (feature engineering) which stores informations about users, instead of interactions.
     * 2.2 Normalization of numerical features and dimensionality reduction are performed on the newly created dataset, to prepare it for clustering.
     * 2.3 KMeans and KMeans++ algorithms are coded from scratch and tested against their implementation in *scikit-learn*. There is also a section that concerns the searching for an optimal number of clusters.
-    * 2.4
+    * 2.4 The results obtained from the KMeans++ algorithm applied on the reduced dataset are analyzed.
+  * **3. Bonus Question**
+    * 3.1 A density-based clustering algorithm (suggested by ChatGPT) is applied to the reduced dataset and the given output is analyzed.
   * **4. Command Line Question**: the content of the script file for an easy and more practical view of the code, and a little comment.
   * **5. Algorithmic Question**: contains the first, yet inefficient, algorithm to find in which order Federico should take the exams in order to achieve the maximum score; the optimized version of the algorithm that computes the maximum score possible and the ChatGPT optimized version. 
 
 * `Commandline.sh`: the executable script file for the question 4
 * `commandline.png`: the screen of the results of the question 4
+
+**NOTE**: if you've got any problem with reviewing the notebook, you can visualize it correctly by opening [this]() link.
